@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoey9015
-- 👀 I’m interested in ...coding and art
+- 👀 I’m interested in ...coding and graphic design
 - 🌱 I’m currently learning ...php & python
 - 📫 How to reach me ...zoey9015@gmail.com
 
